@@ -1,4 +1,4 @@
-# My frontend github collection
+# Awesome frontend github repository collection
 
 ## Free admin themes
 * [akveo/blur-admin](https://github.com/akveo/blur-admin) - AngularJS Blur Admin HTML template
